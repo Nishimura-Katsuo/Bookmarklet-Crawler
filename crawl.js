@@ -39,7 +39,7 @@ javascript:(function(){window._ctq||document.body.appendChild(function(a){Object
 		value: 'Abort',
 		onclick: () => abort = true,
 		style: {
-			margine: '5px',
+			margin: '5px',
 		},
 	});
 
